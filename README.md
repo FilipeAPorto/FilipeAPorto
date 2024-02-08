@@ -1,6 +1,6 @@
 
 
-# ☕Seja bem vindo ao meu GitHub☕ <img src = "penguin.gif" width = "300" align = right>
+# ☕Seja bem vindo ao meu GitHub☕ <img src = "penguin.gif" width = "350" align = right>
 
 
 <div id="badges">
@@ -18,8 +18,7 @@
 
 
 
-Meu nome é Filipe Alves Porto, estudante de programação Java <br>
-e futuramente de outras linguagens.
+Meu nome é Filipe Alves Porto, estudante de programação Java e futuramente de outras linguagens.
 
 
 
