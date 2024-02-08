@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 
+  <a href = "mailto:filipeporto.dev@outlook.com">
+  <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Twitter"/>
+  </a>
   
 </div>  
 
@@ -61,6 +64,7 @@ Sou formado em Engenharia Civil, porêm estou migrando para a área de tecnologi
 
 
 ---
+
 <div align = "center">
 <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=FilipeAPorto&show_icons=true&theme=rose_pine&count_private=true" />
 <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeAPorto&show_icons=true&theme=rose_pine&count_private=true"/>
