@@ -62,6 +62,6 @@ Sou formado em Engenharia Civil, porêm estou migrando para a área de tecnologi
 
 ---
 
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=FilipeAPorto&show_icons=true&theme=rose_pine&count_private=true" />
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeAPorto&show_icons=true&theme=rose_pine&count_private=true"/>
+<img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=FilipeAPorto&show_icons=true&theme=rose_pine&count_private=true" />
+<img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeAPorto&show_icons=true&theme=rose_pine&count_private=true"/>
 </div>
