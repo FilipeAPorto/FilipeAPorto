@@ -1,6 +1,6 @@
 
 
-# ☕Seja bem vindo ao meu GitHub☕ <img src = "penguin.gif" width = "470" align = right>
+# ☕Seja bem vindo ao meu GitHub☕ <img src = "penguin.gif" width = "300" align = right>
 
 
 <div id="badges">
