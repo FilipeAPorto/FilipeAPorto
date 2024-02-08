@@ -3,20 +3,20 @@
 # ☕Seja bem vindo ao meu GitHub☕ <img src = "penguin.gif" width = "350" align = right>
 
 
-<div id="badges">
+
   <a href = "https://www.linkedin.com/in/filipeaporto/">
- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+ <img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin" alt="LinkedIn"/>
   </a>
 
   <a href = "https://twitter.com/_LipePorto">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-
-  <a href = "mailto:filipeporto.dev@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/-__LipePorto-black?logo=x" alt="X"/>
   </a>
   
-</div>  
+
+  <a href = "mailto:filipeporto.dev@outlook.com">
+  <img src="https://img.shields.io/badge/Outlook-blue?logo=microsoftoutlook" alt="outlook"/>
+  </a>
+  
 
 
 
