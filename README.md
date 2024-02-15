@@ -1,6 +1,6 @@
 
 
-# ☕Seja bem vindo ao meu GitHub☕ <img src = "penguin.gif" width = "350" align = right>
+# ☕Seja bem vindo ao meu GitHub☕ <img src = "penguin.gif" width = "335" align = right>
 
 
 
@@ -16,17 +16,21 @@
   <a href = "mailto:filipeporto.dev@outlook.com">
   <img src="https://img.shields.io/badge/Outlook-blue?logo=microsoftoutlook" alt="outlook"/>
   </a>
+
+<a href = "https://www.dio.me/users/filipealvesmissias">
+<img src="https://img.shields.io/badge/Dio.me-purple" alt="Dio"/>
+</a>
   
 
 
 
 
-Meu nome é Filipe Alves Porto, estudante de programação Java e futuramente de outras linguagens.
+Meu nome é Filipe Alves Porto, estudante de programação Java  e futuramente de outras linguagens.
 
 
 
 
-Sou formado em Engenharia Civil, porém estou migrando para a área de tecnologia (e estou me apaixonando❤).
+Sou formado em Engenharia Civil, porém estou migrando para a área de tecnologia <br>(e estou me apaixonando❤).
 
 ---
 
