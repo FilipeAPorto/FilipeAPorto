@@ -35,7 +35,7 @@ Sou formado em Engenharia Civil, porém estou migrando para a área de tecnologi
 ---
 
 👨‍💻 Java Básico - OK! <br>
-👨‍💻 Java Intermediário - Studing . . .
+👨‍💻 Java Intermediário - Studying . . .
 
 ---
 
