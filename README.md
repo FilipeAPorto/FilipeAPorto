@@ -30,7 +30,7 @@ Meu nome é Filipe Alves Porto, estudante de programação Java  e futuramente d
 
 
 
-Sou formado em Engenharia Civil, porém estou migrando para a área de tecnologia <br>(e estou me apaixonando❤).
+Sou formado em Engenharia Civil, porém estou migrando para a área de tecnologia (e estou me apaixonando❤).
 
 ---
 
