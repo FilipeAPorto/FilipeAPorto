@@ -25,7 +25,7 @@
 
 
 
-Meu nome é Filipe Alves Porto, estudante de programação Java e futuramente de outras linguagens.
+Meu nome é Filipe Alves Porto, estudante de programação Java <br>e futuramente de outras linguagens.
 
 
 
