@@ -17,9 +17,6 @@
   <img src="https://img.shields.io/badge/Outlook-blue?logo=microsoftoutlook" alt="outlook"/>
   </a>
 
-<a href = "https://www.dio.me/users/filipealvesmissias">
-<img src="https://img.shields.io/badge/Dio.me-purple" alt="Dio"/>
-</a>
   
 
 
