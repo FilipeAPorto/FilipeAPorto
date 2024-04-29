@@ -40,6 +40,13 @@ Sou formado em Engenharia Civil, porém estou migrando para a área de tecnologi
   <div align ="center"> Java
 </td>
 
+
+ <td>
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" tittle="SpringBoot" alt="IntelliJ" width="50" />&nbsp;
+    <div align ="center"> Spring<br>Boot
+
+ </td>
+
 <td>
  <img src="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" tittle="GitHub" alt="GitHub" width="60" />&nbsp;
     <div align ="center"> GitHub
@@ -52,11 +59,6 @@ Sou formado em Engenharia Civil, porém estou migrando para a área de tecnologi
 
  </td>
 
- <td>
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" tittle="SpringBoot" alt="IntelliJ" width="50" />&nbsp;
-    <div align ="center"> Spring<br>Boot
-
- </td>
 
 
 
