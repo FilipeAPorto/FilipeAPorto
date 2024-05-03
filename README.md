@@ -59,11 +59,6 @@ Sou formado em Engenharia Civil, trabalho na área de TI à 10 anos e estou migr
 
  </td>
 
-
-
-
-
-
 </tr>
 </table>
 
@@ -71,6 +66,4 @@ Sou formado em Engenharia Civil, trabalho na área de TI à 10 anos e estou migr
 
 ---
 
-<div align = "center">
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=FilipeAPorto&show_icons=true&theme=rose_pine&count_private=true" />
-</div>
+
