@@ -36,7 +36,7 @@ Sou formado em Engenharia Civil, trabalho na área de TI à 10 anos e estou migr
 
 
 <td>
-<img src="https://camo.githubusercontent.com/05ca6c6f4f9d878c155e24f518dc8ea55fe3a93627f9e45ed2df034f5d4561d3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" tittle="Java" alt="Java" width="60" />&nbsp;
+<img src="https://camo.githubusercontent.com/05ca6c6f4f9d878c155e24f518dc8ea55fe3a93627f9e45ed2df034f5d4561d3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" tittle="Java" alt="Java" width="60"/>&nbsp;
   <div align ="center"> Java
 </td>
 
@@ -73,5 +73,4 @@ Sou formado em Engenharia Civil, trabalho na área de TI à 10 anos e estou migr
 
 <div align = "center">
 <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=FilipeAPorto&show_icons=true&theme=rose_pine&count_private=true" />
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeAPorto&show_icons=true&theme=rose_pine&count_private=true"/>
 </div>
