@@ -22,7 +22,7 @@
 
 
 
-Meu nome é Filipe Alves Porto, estudante de programação Java <br>e JavaScript.
+Meu nome é Filipe Alves Porto, estudante de programação Java e JavaScript.
 
 
 
