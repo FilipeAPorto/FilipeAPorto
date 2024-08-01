@@ -27,6 +27,7 @@ Meu nome é Filipe Alves Porto, estudante de programação Java e JavaScript.
 
 
 
+Estudante em bacharel em Tecnologia da Informação .
 Sou formado em Engenharia Civil, trabalho na área de TI à 10 anos e estou migrando para a área de programação (e estou me apaixonando❤).
 
 ---
