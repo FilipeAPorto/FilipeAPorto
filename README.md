@@ -37,20 +37,20 @@ Sou formado em Engenharia Civil, trabalho na área de TI à 10 anos e estou migr
 
 
 <td>
-<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/java-auto.svg" tittle="Java" alt="Java" width="60"/>&nbsp;
+<img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/java-auto.svg" tittle="Java" alt="Java" width="60"/>
   <div align ="center"> Java
 </td>
 
 
  <td>
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" tittle="SpringBoot" alt="IntelliJ" width="50" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" tittle="SpringBoot" alt="IntelliJ" width="50" />
     <div align ="center"> Spring<br>Boot
 
  </td>
 
 
 <td>
-<img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" tittle="IntelliJ" alt="IntelliJ" width="58" />&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" tittle="IntelliJ" alt="IntelliJ" width="58" />
     <div align ="center"> IntelliJ
 
  </td>
